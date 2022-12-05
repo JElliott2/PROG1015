@@ -17,7 +17,7 @@ The current version of the application uses basic classes with a setter/getter a
 ***
 
 To do: 
-* Modify how output is handled so that when output is needed a function is called instead of repeated code sections. - [ ]
-* Integrate file storage and persistent tasks. - [ ]
-* Web frontend. - [ ]
-* Creation of users and user-specific lists. - [ ]
+* Modify how output is handled so that when output is needed a function is called instead of repeated code sections. - [   ]
+* Integrate file storage and persistent tasks. - [   ]
+* Web frontend. - [   ]
+* Creation of users and user-specific lists. - [   ]
