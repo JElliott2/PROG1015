@@ -2,13 +2,7 @@
 ## **Task**: develop a console application that can store/edit tasks during run time.
 
 This java application is called 'taskmaster' and can be used to temporarily create/store/edit tasks.
-
->    __             __                        __               
->   / /_____ ______/ /______ ___  ____ ______/ /____  _____        
->  / __/ __ `/ ___/ //_/ __ `__ \\/ __ `/ ___/ __/ _ \\/ ___/        
-> / /_/ /_/ (__  ) ,< / / / / / / /_/ (__  ) /_/  __/ /            
-> \\__/\\__,_/____/_/|_/_/ /_/ /_/\\__,_/____/\\__/\\___/_/             
-                                                                 
+                                                                          
 The application has five main functions:
 	* Create tasks
 	* Mark tasks as complete
