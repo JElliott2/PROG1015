@@ -19,7 +19,7 @@ The current version of the application uses basic classes with a setter/getter a
 **TaskAdder.java** - get user input for the task elements, set those elements in the task object, then add the new task object to the list  
 **TaskEdit.java** - print the current list of tasks, ask user for which task and element to edit, then use a switch to edit the appropriate element  
 **TaskListPrinter.java** - print the current list of tasks  
-**Tasks.java** - blueprint for task objects (title/duedate/description)  
+**Tasks.java** - blueprint for task objects (title/due date/description)  
 
 ***
 
