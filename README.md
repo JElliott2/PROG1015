@@ -4,11 +4,11 @@
 This java application is called 'taskmaster' and can be used to temporarily create/store/edit tasks.
                                                                           
 The application has five main functions:
-	- Create tasks
-	- Mark tasks as complete
-	- Edit tasks
-	- Delete tasks
-	- Print all stored tasks
++ Create tasks
++ Mark tasks as complete
++ Edit tasks
++ Delete tasks
++ Print all stored tasks
 
 ***
 
